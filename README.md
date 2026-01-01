@@ -5,7 +5,7 @@ highlights industry best pratices in data engineering and analytics.
 
 ---
 
-## Project Requirements
+## 🚀 Project Requirements
 
 ### 🏠 Building the Data Warehouse (Data Engineering)
 
